@@ -693,10 +693,13 @@
     (uuid 479f3f0b-5f70-458d-a591-f099cd39a0d2)
     (property "Reference" "L1" (id 0) (at 181.61 87.63 90))
     (property "Value" "L_Ferrite" (id 1) (at 181.61 90.17 90))
-    (property "Footprint" "Inductor_THT:L_Radial_D6.0mm_P4.00mm" (id 2) (at 181.61 93.98 0)
+    (property "Footprint" "Tinker:IND-SMD_L7.1-W6.6" (id 2) (at 181.61 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 181.61 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "C2983095" (id 4) (at 181.61 93.98 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f31b201d-9578-4b4c-8165-235e95871a22))
@@ -1110,7 +1113,7 @@
       (reference "J2") (unit 1) (value "Output") (footprint "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal")
     )
     (path "/479f3f0b-5f70-458d-a591-f099cd39a0d2"
-      (reference "L1") (unit 1) (value "L_Ferrite") (footprint "Inductor_THT:L_Radial_D6.0mm_P4.00mm")
+      (reference "L1") (unit 1) (value "L_Ferrite") (footprint "Tinker:IND-SMD_L7.1-W6.6")
     )
     (path "/794b9bb4-29b7-450a-bb76-0318a7f3d068"
       (reference "R1") (unit 1) (value "100K") (footprint "Resistor_SMD:R_0603_1608Metric")
