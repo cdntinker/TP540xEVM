@@ -3080,7 +3080,7 @@
   (gr_text "+" (at 109.22 91.44) (layer "F.SilkS") (tstamp 0acef982-f613-4a6e-a74c-05ff5e17c11b)
     (effects (font (size 0.9 0.9) (thickness 0.15)))
   )
-  (gr_text "TPS540x Breakout" (at 100 88.2) (layer "F.SilkS") (tstamp 0e6ff5ce-24e7-45c7-91e4-047511de1425)
+  (gr_text "TPS540x Carrier" (at 100 88.2) (layer "F.SilkS") (tstamp 0e6ff5ce-24e7-45c7-91e4-047511de1425)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "IN" (at 83 103.505) (layer "F.SilkS") (tstamp 1666fddd-a5bd-4a32-89d6-f5020d606454)
