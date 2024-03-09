@@ -129,7 +129,7 @@
       (net 2 "Net-(C1-Pad2)") (pinfunction "K") (pintype "passive") (tstamp da222074-a747-42bc-a8b0-f2f568031e49))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 4 "GND") (pinfunction "A") (pintype "passive") (tstamp 3966e0be-2deb-4b89-adf3-cc4965dc03ca))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -211,8 +211,8 @@
       (net 4 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp b3d34b10-2c0f-41a8-8b99-e609cd052371))
     (pad "2" thru_hole circle (at 3.5 0 90) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 5 "Vout") (pinfunction "Pin_2") (pintype "passive") (tstamp e68e83f6-965f-4791-b21c-5bb6173279ea))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "/home/tinker/Documents/GIT/TP540x Voltage Regulation/KiCAD Customs/3D/CONN-TH_XY302V-3.5-2P.step"
+      (offset (xyz 1.75 0.25 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -271,7 +271,7 @@
       (net 1 "Net-(C1-Pad1)") (pintype "passive") (tstamp 4d30c578-37b2-451a-beb4-e46ec6d88673))
     (pad "2" smd roundrect (at 0.775 0) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "Net-(C1-Pad2)") (pintype "passive") (tstamp d49b8a18-90e0-4c47-80ac-b8f58bad15cc))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -425,7 +425,7 @@
       (net 8 "Net-(C6-Pad1)") (pintype "passive") (tstamp a6a7785c-a62d-46f4-9bf7-21f8a9050e66))
     (pad "2" smd roundrect (at 0.775 0 90) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 4 "GND") (pintype "passive") (tstamp 183d5370-d641-4c57-91e1-2bcfd7d8f0a1))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -467,7 +467,7 @@
       (net 6 "Net-(C4-Pad1)") (pintype "passive") (tstamp 618fab00-7af3-495d-9537-9792dec6d692))
     (pad "2" smd roundrect (at 0.825 0 270) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 8 "Net-(C6-Pad1)") (pintype "passive") (tstamp d467516f-3a56-40a6-b3a1-2ec9c647a898))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3071,7 +3071,7 @@
       (net 6 "Net-(C4-Pad1)") (pintype "passive") (tstamp 11056fd7-ce78-4e25-b347-0f5e9178d968))
     (pad "2" smd roundrect (at 0.775 0 270) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 4 "GND") (pintype "passive") (tstamp d137f61b-a850-4779-8ff1-d5d3d231f2a5))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3179,7 +3179,7 @@
       (net 9 "Net-(R1-Pad1)") (pintype "passive") (tstamp 7ba6e934-d363-4676-b4fb-b82699cce9b1))
     (pad "2" smd roundrect (at 0.825 0 270) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 4 "GND") (pintype "passive") (tstamp 4f5f1bf7-cbdb-4664-8ec5-9cf3e5e34c4e))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3221,7 +3221,7 @@
       (net 7 "Net-(C5-Pad1)") (pintype "passive") (tstamp 68a13630-8742-497c-a569-51564ec62c78))
     (pad "2" smd roundrect (at 0.775 0 270) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 4 "GND") (pintype "passive") (tstamp 1faade1e-79e1-4ebb-b815-b4589f51ece4))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3781,8 +3781,8 @@
       (net 3 "Vin") (pinfunction "Pin_1") (pintype "passive") (tstamp a7efdae1-e6d4-46eb-93aa-708aee1a850d))
     (pad "2" thru_hole circle (at 3.5 0 270) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 4 "GND") (pinfunction "Pin_2") (pintype "passive") (tstamp ba930729-3a40-4f94-8e08-a9ae71dca0be))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "/home/tinker/Documents/GIT/TP540x Voltage Regulation/KiCAD Customs/3D/CONN-TH_XY302V-3.5-2P.step"
+      (offset (xyz 1.75 0.25 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )

@@ -695,8 +695,8 @@
       (net 2 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp bf16ba1e-fae6-4a1a-a574-c8f151264d22))
     (pad "2" thru_hole circle (at 3.5 0 90) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 3 "Vout") (pinfunction "Pin_2") (pintype "passive") (tstamp a4add45d-a872-44dd-abf7-12b428daefde))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "/home/tinker/Documents/GIT/TP540x Voltage Regulation/KiCAD Customs/3D/CONN-TH_XY302V-3.5-2P.step"
+      (offset (xyz 1.75 0.25 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -815,7 +815,7 @@
       (net 3 "Vout") (pintype "passive") (tstamp 455db61e-77eb-451b-bd5d-514792be0a0c))
     (pad "2" smd roundrect (at 3.25 0 270) (size 3.5 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1)
       (net 2 "GND") (pintype "passive") (tstamp 846c0f91-14a7-48e8-aa0e-30f0dd9c49c9))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_8x10.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_8x10.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3359,7 +3359,7 @@
       (net 1 "Vin") (pintype "passive") (tstamp a4699ef3-9b86-49c6-8bc4-a2f40d8c056d))
     (pad "2" smd roundrect (at 3.25 0 270) (size 3.5 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1)
       (net 2 "GND") (pintype "passive") (tstamp 47947a49-964d-4512-bca7-d70e1dd12616))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_8x10.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_8x10.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3441,8 +3441,8 @@
       (net 1 "Vin") (pinfunction "Pin_1") (pintype "passive") (tstamp 3c7c1d18-402f-4bcf-a364-1f2a4b28cfa4))
     (pad "2" thru_hole circle (at 3.5 0 270) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "Pin_2") (pintype "passive") (tstamp 9609aaf1-5e1b-4c30-9082-e8c0da3d0353))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_4Ucon.3dshapes/TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "/home/tinker/Documents/GIT/TP540x Voltage Regulation/KiCAD Customs/3D/CONN-TH_XY302V-3.5-2P.step"
+      (offset (xyz 1.75 0.25 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
